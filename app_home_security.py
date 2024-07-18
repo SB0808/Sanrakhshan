@@ -1,15 +1,3 @@
-"""
- *****************************************************
- *
- *              Gabor Vecsei
- * Email:       vecseigabor.x@gmail.com
- * Blog:        https://gaborvecsei.wordpress.com/
- * LinkedIn:    www.linkedin.com/in/gaborvecsei
- * Github:      https://github.com/gaborvecsei
- * Twitter:     https://twitter.com/GAwesomeBE
- *
- *****************************************************
-"""
 
 try:
 	import configparser
