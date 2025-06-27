@@ -58,9 +58,7 @@ Go to `192.168.0.12:5000/login` or navigate there from the homepage and you can 
 * Enter the *minimum detection area* (the smaller the value the more it is sensitive for movements, changes on the captured image)
 * Choose to *start* or *stop* the system
 
-If the System detects movement it will snap a picture and upload to your Firebase project.
 
-<img  height=250 src="https://github.com/gaborvecsei/Home-Security/blob/master/images/firebase_storage.jpg" />
 
 --------------------------
 
